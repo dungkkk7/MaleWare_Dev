@@ -1,0 +1,2 @@
+#define SC_ICON 2345
+SC_ICON RCDATA "shellcodex64.ico"
